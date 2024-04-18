@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaronmee, also known as midnight
-- 👀 I’m interested in playing around with boards like esp's or arduinos
-- 🌱 I’m currently learning python and c++
-- 📫 How to reach me: Discord @midnight#1932
+- 👋 Hi, I’m @aaronmee
+- 👀 I’m interested in tinkering around with software and programs
+- 🌱 I'm working on projects in my free time and for fun
+- 📫 How to reach me: Discord @aaronmee
